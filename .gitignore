@@ -1,0 +1,6 @@
+# Mac OS Junk
+.DS_Store
+Icon?
+
+# Python junk
+__pycache__
